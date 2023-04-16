@@ -4,7 +4,7 @@ Olá Dev! Estou criando esse repositório com fins de estudos, um resumindo fala
 
 
 
-####Mas Afinal, o que é o GitHub?
+Mas Afinal, o que é o GitHub?
 
 Em breves palavras, podemos dizer que o Github é uma **plataforma** de gerenciamento de projetos e **controle de versão de código-fonte** baseado em nuvem ☁️ que nos permite o desenvolvimento dos nossos projetos de forma colaborativa com toda a equipe de desenvolvimento, facilitando a manutenção, gerenciamento e desevolvimento do programas. 
 
@@ -13,7 +13,7 @@ processo de colaboração mais fácil e eficiente.
 
 
 
-####**Mas e o Git, o que seria?** 
+Mas e o Git, o que seria?
 
 Já o Git é um **sistema de controle de versão de código-fonte distribuído e gratuito**, desenvolvido pelo criador do Linux, Linus Torvalds, em 2005. Ele permite que desenvolvedores trabalhem em equipe e gerenciem diferentes versões de código-fonte para um mesmo projeto, permitindo a colaboração e compartilhamento de trabalho de forma eficiente e segura.
 
@@ -27,7 +27,7 @@ Já o **versionamento de código** é uma prática que consiste em gerenciar as 
 
 
 
-####**Agora vamos ver os passos para a instalação**
+**Agora vamos ver os passos para a instalação**
 
 1. Crie uma conta no GitHub: Para criar uma conta no GitHub, vá para a página de registro do GitHub e preencha as informações necessárias.
 2. Instale o Git: O Git é um sistema de controle de versão de código-fonte que é usado para trabalhar com o GitHub. Você pode baixar e instalar o Git a partir do site oficial do Git.
